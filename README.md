@@ -1,4 +1,3 @@
-In the `README.md` file for your portfolio project on GitHub, you should include essential information that will help visitors and potential recruiters understand what your project is about, how to use it, and how to get in touch with you. Here's a basic template you can use and customize:
 
 ```markdown
 # Sruthi Karanam's Portfolio
@@ -58,6 +57,3 @@ Feel free to reach out to me for any questions or opportunities:
 
 Thank you for visiting my portfolio!
 
-```
-
-You can add more sections or details based on your preferences and what you want to showcase. This `README.md` file helps visitors quickly understand your project and how to interact with it.
