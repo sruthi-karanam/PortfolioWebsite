@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.be5301e0.css",
+    "main.js": "/PortfolioWebsite/static/js/main.eb7f19e6.js",
+    "static/media/peoplesAgronomyImage.png": "/PortfolioWebsite/static/media/peoplesAgronomyImage.b1d289d060a41684e5b6.png",
+    "static/media/recyloImage.png": "/PortfolioWebsite/static/media/recyloImage.fa1b136a6efd4f0ac8ce.png",
+    "static/media/traducaoImage.png": "/PortfolioWebsite/static/media/traducaoImage.025df5f0aecaf698a2d7.png",
+    "static/media/bannerImg.png": "/PortfolioWebsite/static/media/bannerImg.5dd3129f9327a11c162c.png",
+    "static/media/smartCarParkingImage.png": "/PortfolioWebsite/static/media/smartCarParkingImage.9186e71ff69873bca62a.png",
+    "static/media/testimonialOne.png": "/PortfolioWebsite/static/media/testimonialOne.b51c9b80aae74fa4a0b8.png",
+    "static/media/judxImage.png": "/PortfolioWebsite/static/media/judxImage.3ee8d3b2a54ac38a99ea.png",
+    "static/media/quote.png": "/PortfolioWebsite/static/media/quote.18fad9e19a2e577b2550.png",
+    "static/media/contactImg.png": "/PortfolioWebsite/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialTwo.png": "/PortfolioWebsite/static/media/testimonialTwo.26c3b57cdc064e9d5955.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.be5301e0.css.map": "/PortfolioWebsite/static/css/main.be5301e0.css.map",
+    "main.eb7f19e6.js.map": "/PortfolioWebsite/static/js/main.eb7f19e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5301e0.css",
+    "static/js/main.eb7f19e6.js"
+  ]
+}
